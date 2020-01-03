@@ -5,7 +5,7 @@
 2. Supervised Learning for Regression Prolems,
 3. Unsupervised Learning
 
-## Her bir başlık için CRISP-DM iş akışı takip edilecek;
+## Her bir başlık için CRISP-DM iş akışı takip edilecek:
 ### Business understanding
 1. Business goal declaration
 2. Expected value framework (EVF)
