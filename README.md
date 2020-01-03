@@ -7,5 +7,6 @@
 
 ## Her biri için aşağıdaki CRISP-DM iş akışı takip edilecek
 ### Business understanding
-### Expected value framework (EVF)
-### Business strategy declaration 
+1. Business goal declaration
+2. Expected value framework (EVF)
+3. Business strategy declaration
